@@ -1,0 +1,4 @@
+streamlit>=1.30
+deep-translator>=1.11
+gTTS>=2.5
+langdetect>=1.0.9
